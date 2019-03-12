@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,7,22,5,45,3,17,4.8,0,,"GERMANY:  AACHEN, COLOGNE, SPANGDAHLEM",50.889,6.103,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2003,3,22,13,36,16,6,4.7,0,,GERMANY:  ALBSTADT,48.21,9.0,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2004,12,5,1,52,37,10,4.8,5,,"GERMANY:  EMMENDINGEN, FREIBURG IM BREISGAU",48.115,8.077,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2014,5,17,16,46,4,5,3.6,4,,GERMANY:  HESSE,49.799,8.69,120,0,0,0,0,0,0,1,2,0,0,70,2,0,0,0,1,0,70

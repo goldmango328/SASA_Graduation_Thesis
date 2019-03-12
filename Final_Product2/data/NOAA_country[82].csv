@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2008,2,15,10,36,19,10,5.0,0,,LEBANON-SYRIA:  BAALBEC,33.327,35.305,140,0,0,0,0,10,1,0,1,0,0,0,1,0,0,10,0,0,0

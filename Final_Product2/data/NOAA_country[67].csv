@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2005,7,10,13,10,12,4,5.2,0,,ALBANIA:  TROPOJE,42.389,19.812,130,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+2006,6,13,14,15,38,10,4.5,0,,ALBANIA:  TEPELENE,40.27,19.96,130,0,0,0,0,1,1,0,1,12,1,0,0,0,0,1,0,12,0
+2007,4,16,7,38,53,14,4.5,0,,ALBANIA:  TIRANA,41.172,19.897,130,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+2014,5,19,0,59,6,10,5.0,4,,ALBANIA:  BELSH,41.115,19.777,130,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2015,2,21,21,21,8,7,3.6,0,,BALKANS NW:  BOSNIA-HERZEGOVINA:,44.534,18.934,130,4,1,0,0,1,1,0,0,0,0,0,0,4,0,1,0,0,0

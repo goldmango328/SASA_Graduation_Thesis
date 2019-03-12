@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2001,10,12,5,2,34,20,6.1,0,BC,CANADA:  QUEEN CHARLOTTE ISLANDS,52.63,-132.2,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,11,2,10,2,12,10,6.6,0,BC,CANADA:  VANCOUVER ISLAND,49.277,-128.772,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,6,23,17,41,41,22,5.2,6,,"CANADA:  QUEBEC:  VAL-DES-BOIS, GRACEFIELD",45.88,-75.48,150,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2012,10,28,3,4,8,14,7.7,0,,CANADA:  QUEEN CHARLOTTE ISLANDS,52.788,-132.101,150,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0

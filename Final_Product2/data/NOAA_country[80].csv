@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2007,12,9,2,3,29,10,4.6,0,,BRAZIL:  MINAS GERAIS,-15.048,-44.231,160,1,1,0,0,6,1,0,2,76,2,0,0,1,0,6,0,76,0
+2008,2,29,4,46,0,10,4.3,0,,BRAZIL:  SOBRAL,-3.7,-40.35,160,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2008,5,21,19,23,57,10,,0,,BRAZIL:  ALCANTARAS,-3.91,-40.44,160,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2012,5,19,13,41,21,10,4.1,0,,BRAZIL:  MONTES CLAROS,-16.764,-43.999,160,0,0,0,0,0,0,0,1,0,0,6,1,0,0,0,0,0,6

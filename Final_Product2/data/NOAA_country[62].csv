@@ -1,0 +1,6 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2004,11,20,8,7,22,16,6.4,0,,"COSTA RICA:  SAN JOSE, PARRITA, QUEPOS",9.602,-84.172,100,8,1,0,0,0,2,0,3,526,3,0,0,8,0,0,0,526,0
+2008,5,26,15,1,33,13,5.6,0,,PANAMA-COSTA RICA,8.423,-82.968,100,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2009,1,8,19,21,35,14,6.1,0,,COSTA RICA:  LA PAZ,10.165,-84.197,100,23,1,17,1,100,2,0,3,518,3,0,0,23,17,100,0,518,0
+2012,9,5,14,42,7,35,7.6,0,,COSTA RICA:  NICOYA,10.085,-85.315,100,2,1,0,0,20,1,0,1,0,2,0,0,2,0,20,0,0,0
+2017,11,13,2,28,24,20,6.5,0,,COSTA RICA: JACO,9.526,-84.505,100,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
