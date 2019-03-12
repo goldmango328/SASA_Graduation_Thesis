@@ -3,7 +3,7 @@ Project related with 2019, SASA Graduation Thesis (2019.03. ~ 2019.05.)
 
 ## TO DO  
 1) Final_Product2 ERROR 수정(2019.03.12)  
-- Error Message : **Unterminated String Constant**  
+- Error Message : **Unterminated String Constant > Final_Product2**  
 <pre><code>processing.app.SketchException: Unterminated string constant
 	at processing.mode.java.preproc.PdePreprocessor.checkForUnterminatedMultilineComment(PdePreprocessor.java:850)
 	at processing.mode.java.preproc.PdePreprocessor.write(PdePreprocessor.java:925)
