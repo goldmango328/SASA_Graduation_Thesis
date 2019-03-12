@@ -2,7 +2,7 @@
 Project related with 2019, SASA Graduation Thesis (2019.03. ~ 2019.05.)  
 
 ## TO DO  
-1) Final_Product2 수정(2019.03.12) > **SOLVED**  
+1) Final_Product2 수정(2019.03.12) > **SOLVED(Final_Product_ERROR를 사용하자**  
 - Error Message : **Unterminated String Constant > Final_Product2**  
 <pre><code>processing.app.SketchException: Unterminated string constant
 	at processing.mode.java.preproc.PdePreprocessor.checkForUnterminatedMultilineComment(PdePreprocessor.java:850)
@@ -17,3 +17,4 @@ Project related with 2019, SASA Graduation Thesis (2019.03. ~ 2019.05.)
 </code></pre>
 
 2) 전체 데이터에서 의미있는 값 선출 및 다른 데이터 비교값 찾기  
+- NOAA DATA : CSV 
