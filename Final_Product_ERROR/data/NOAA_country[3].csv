@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,2,7,19,34,57,5,4.5,0,,SOUTH AFRICA; SWAZILAND:  MBABANE-MANZINI,-26.288,30.888,10,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+2005,3,9,10,15,31,5,4.3,0,,"SOUTH AFRICA:  KLERKSDORP, STILFONTEIN",-26.913,26.789,10,2,1,0,0,58,2,0,2,0,0,0,0,2,0,58,0,0,0
+2009,12,6,21,51,59,2,3.5,0,,SOUTH AFRICA:  CARLETONVILLE,-26.414,27.494,10,2,1,0,0,3,1,0,0,0,0,0,0,2,0,3,0,0,0
+2014,8,5,10,23,38,5,5.5,6,,SOUTH AFRICA:  ORKNEY,-26.99,26.705,10,1,1,0,0,17,1,0,2,13,1,1433,4,1,0,17,0,13,1433

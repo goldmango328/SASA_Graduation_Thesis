@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2011,7,19,19,35,43,20,6.1,0,,"UZBEKISTAN:  FARGONA, VIOLYATI",40.081,71.41,40,14,1,0,0,86,2,0,1,0,2,0,0,14,0,86,0,0,0

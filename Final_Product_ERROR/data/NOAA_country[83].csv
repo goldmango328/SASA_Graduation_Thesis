@@ -1,0 +1,7 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2008,8,11,7,19,26,13,5.2,0,,VENEZUELA:  CARIACO-CUMANA,10.514,-64.171,160,0,0,0,0,0,0,0,1,0,0,50,1,0,0,0,0,0,50
+2009,9,12,20,6,24,10,6.3,0,,VENEZUELA:  CARABOBO,10.705,-67.92,160,0,0,0,0,18,1,0,1,0,0,17,1,0,0,18,0,0,17
+2009,11,27,8,15,53,7,5.4,0,,VENEZUELA:  SIQUISIQUE,10.434,-69.715,160,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,1,15,18,0,46,8,5.5,0,,VENEZUELA:  CARIACO,10.454,-63.475,160,0,0,0,0,11,1,0,1,0,0,3,1,0,0,11,0,0,3
+2015,11,7,6,58,30,14,5.3,0,,VENEZUELA:  MERIDA,8.477,-71.365,160,1,1,0,0,0,0,0,1,33,1,83,2,1,0,0,0,33,83
+2015,11,22,20,38,5,5,5.1,4,,VENEZUELA:  MERIDA,8.48,-71.42,160,1,1,0,0,3,1,0,1,0,0,6,1,1,0,3,0,0,6

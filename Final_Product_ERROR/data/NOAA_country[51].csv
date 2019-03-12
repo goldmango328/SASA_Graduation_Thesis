@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2003,12,17,23,15,17,34,4.4,0,,BULGARIA: POVADIYA,43.083,27.486,110,0,0,0,0,0,0,0,2,10,1,10,1,0,0,0,0,10,150
+2006,2,20,17,20,9,10,4.6,0,,GREECE-BULGARIA BORDER REGION,41.708,25.544,110,0,0,0,0,2,1,0,0,0,1,0,1,0,0,2,0,0,0
+2012,5,22,0,0,32,10,5.6,7,,BULGARIA: PERNIK,42.645,22.968,110,0,0,0,0,0,0,0,2,0,0,90,2,0,0,0,0,0,90

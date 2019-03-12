@@ -1,0 +1,8 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2004,11,15,9,6,56,15,7.2,0,,"COLOMBIA:  BAJO BAUDO, BUENAVENTURA, CERRITO",4.695,-77.508,160,0,0,0,0,10,1,0,3,154,3,0,0,0,0,10,0,154,0
+2007,3,6,13,5,12,43,5.0,0,,"COLOMBIA:  CAUCA, SOTARA, PURACE,",2.082,-76.495,160,0,0,0,0,9,1,0,1,9,1,0,0,0,0,9,0,9,0
+2007,9,10,1,49,14,31,6.8,0,,"COLOMBIA:  NARINO, EL CHARCO, ISCUANDE, LA TOLA",2.982,-77.967,160,0,0,0,0,5,1,0,1,35,1,0,0,0,0,5,0,35,0
+2008,5,24,19,20,42,9,5.6,0,,"COLOMBIA:  META, QUETAME",4.33,-73.764,160,6,1,0,0,0,0,0,1,0,0,0,2,6,0,0,0,0,0
+2013,2,9,14,16,7,145,7.0,0,,"COLOMBIA:  CAUCA, NARINO, VALLE DEL CAUCA, RISARALDA",1.135,-77.393,160,0,0,0,0,15,1,0,2,100,2,1900,4,0,0,15,0,100,1900
+2014,1,5,3,36,59,54,5.6,5,,COLOMBIA:  SIPI,4.557,-76.644,160,0,0,0,0,0,0,0,2,0,0,121,3,0,0,0,0,0,121
+2015,3,10,20,55,2,184,6.2,5,,"COLOMBIA:  ANTIOQUIA, SANTANDER",6.8,-73.01,160,0,0,0,0,0,0,0,3,180,3,2167,4,0,0,0,0,180,2167
