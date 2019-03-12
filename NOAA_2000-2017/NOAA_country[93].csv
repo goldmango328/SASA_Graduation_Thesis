@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2015,6,4,23,16,31,10,6.0,6,,"MALAYSIA:  SABAH:  LAHAD,DATU,KANAK",5.987,116.541,170,18,1,0,0,0,2,0,1,0,0,23,1,18,0,0,0,0,23

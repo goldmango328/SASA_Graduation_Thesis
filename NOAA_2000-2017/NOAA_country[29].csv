@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,1,17,20,1,29,15,4.7,0,,RWANDA:  GISENYI,-1.684,29.077,10,0,1,0,0,0,0,0,2,307,0,0,0,1001,0,400,0,307,0
+2008,2,14,2,7,46,10,4.9,0,,RWANDA:  GISENYI,-2.404,28.918,10,1,1,0,0,109,3,0,1,0,0,5,1,1,0,109,0,0,5
+2015,8,7,1,25,54,11,5.8,4,,RWANDA:  BUKAVU,-2.141,28.897,10,3,1,0,0,30,1,0,0,0,0,0,0,3,0,30,0,0,0
+2016,9,23,19,11,56,10,4.8,0,,RWANDA:  RISUZI; CONGO:  UKAVU,-2.65,29.06,10,3,1,0,0,25,1,0,1,0,1,0,0,3,0,25,0,0,0

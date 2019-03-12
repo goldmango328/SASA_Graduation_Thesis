@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,10,24,6,8,37,11,6.2,0,,"CONGO: GOMA, LWIRO, BUKAVU; RWANDA:  MUGERA, KIGALI",-1.884,29.004,10,2,1,0,0,0,0,0,1,0,2,0,0,2,0,0,0,0,0
+2005,12,5,12,19,56,22,6.8,0,,CONGO:  KALEMIE,-6.224,29.83,10,6,1,0,0,0,0,0,1,300,3,0,0,6,0,0,0,300,0
+2008,2,3,7,34,12,10,5.9,0,,CONGO:  BUKAVU,-2.296,28.9,10,38,1,0,0,717,3,0,3,99,2,815,3,38,0,717,0,99,815

@@ -1,0 +1,7 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2003,12,27,4,55,25,10,6.1,0,,NEW CALEDONIA:  LOYALTY ISLANDS,-22.107,169.35,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,4,9,12,46,12,33,7.3,0,,NEW CALEDONIA: LOYALTY ISLANDS,-20.071,168.892,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,8,12,1,26,35,10,7.2,0,,NEW CALEDONIA:  LOYALTY ISLANDS,-22.495,173.111,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,10,31,0,42,6,11,6.8,0,,NEW CALEDONIA:  LOYALTY ISLANDS,-21.66,169.203,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,11,1,2,23,56,10,6.6,0,,NEW CALEDONIA:  LOYALTY ISLANDS,-21.63,168.884,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,11,19,22,43,29,10,7.0,0,,NEW CALEDONIA:  LOYALTY ISLANDS,-21.334,168.683,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

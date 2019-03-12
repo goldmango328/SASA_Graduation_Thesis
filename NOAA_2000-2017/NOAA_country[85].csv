@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2008,11,22,22,27,55,0,4.1,0,,CZECH REPUBLIC:  KARVINA,49.914,18.455,110,2,1,0,0,3,1,0,1,0,0,0,0,2,0,3,0,0,0

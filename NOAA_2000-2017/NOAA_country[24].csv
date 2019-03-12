@@ -1,0 +1,9 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2001,10,12,15,2,16,37,7.0,8,GU,GUAM,12.686,144.98,170,0,0,0,0,1,1,0,2,0,3,0,0,0,0,1,0,0,0
+2002,4,26,16,6,7,86,7.1,7,GU,GUAM,13.088,144.619,170,0,0,0,0,5,1,0,1,0,0,0,0,0,0,5,0,0,0
+2002,8,14,13,57,52,30,6.5,0,MP,NORTHERN MARIANA ISLANDS:  SAIPAN,14.101,146.199,170,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+2010,5,16,5,16,10,113,5.8,0,PR,"PUERTO RICO:  LARES, VEGA BAJA",18.4,-67.07,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,5,29,11,46,50,10,4.4,0,MP,"ANATAHAN REGION, N. MARIANA ISLANDS",16.591,145.682,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,8,13,21,19,33,10,6.9,0,GU,"GUAM, NORTHERN MARIANA ISLANDS",12.484,141.476,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,1,13,4,1,24,20,6.4,5,,PUERTO RICO,19.043,-66.81,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2016,7,29,21,18,25,212,7.7,0,MP,NORTHERN MARIANA ISLANDS,18.515,145.529,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
