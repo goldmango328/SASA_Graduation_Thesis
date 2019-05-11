@@ -1,0 +1,3 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2005,1,29,7,41,31,5,4.4,0,,"SPAIN:  LA PACA, ZARCILLA DE RAMOS",37.91,-1.82,130,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2011,5,11,16,47,25,1,5.1,0,,SPAIN:  LORCA,37.699,-1.672,130,10,1,0,0,0,3,0,1,0,1,0,1,10,0,0,0,0,0

@@ -1,0 +1,2 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2003,7,15,20,27,50,10,7.6,0,,INDIAN OCEAN:  FELT IN MALDIVES,-2.598,68.382,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

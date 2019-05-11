@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,6,17,15,40,41,10,6.5,0,,"ICELAND:  VESTMANNAEYJAR, HELLA",63.966,-20.487,120,0,0,0,0,1,1,20,3,11,1,11,1,0,0,1,20,11,19
+2000,6,21,0,51,46,10,6.5,0,,"ICELAND:  GRIMSNES, SELFOSS, EYRARBAKKI, STOKKSEYRI",63.98,-20.758,120,0,0,0,0,0,0,12,3,12,1,12,1,0,0,0,12,12,0
+2008,5,29,15,46,0,10,6.3,0,,ICELAND: REYKJAVIK,64.004,-21.012,120,0,0,0,0,30,1,0,1,0,0,0,0,0,0,30,0,0,0

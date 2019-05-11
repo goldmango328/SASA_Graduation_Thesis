@@ -1,0 +1,13 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,11,16,4,54,55,17,8.0,0,,"PAPUA NEW GUINEA:  NEW IRELAND, DUKE OF YORK",-4.001,152.327,170,2,1,0,0,0,0,0,2,0,3,0,0,2,0,0,0,0,0
+2000,11,16,7,42,16,30,7.8,0,,"PAPUA NEW GUINEA:  NEW IRELAND, NEW BRITAIN",-5.233,153.102,170,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2000,11,17,21,1,56,33,7.8,0,,PAPUA NEW GUINEA:  NEW BRITAIN,-5.496,151.781,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,1,10,11,14,56,11,6.7,0,,PAPUA NEW GUINEA:  AITAPE,-3.212,142.427,170,1,1,0,0,0,0,0,2,200,3,0,0,1,0,0,0,200,0
+2002,9,8,18,44,25,13,7.6,0,,"PAPUA NEW GUINEA:  KAIRIRU IS, MUSCHU IS, WEWAK",-3.26,142.94,170,4,1,0,0,70,2,0,3,0,1,873,3,4,0,70,0,0,873
+2005,9,9,7,26,43,90,7.7,0,,PAPUA NEW GUINEA:  NEW IRELAND,-4.539,153.474,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,4,11,7,7,13,61,7.1,0,,PAPUA NEW GUINEA:  BOUGAINVILLE ISLAND,-6.586,155.049,170,1,1,0,0,0,0,0,1,51,2,0,0,1,0,0,0,51,0
+2014,4,19,13,29,21,43,7.5,0,,PAPUA NEW GUINEA:  SOLOMON SEA,-6.755,155.024,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,3,29,23,48,1,41,7.5,6,,PAPUA NEW GUINEA,-4.729,152.562,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,5,5,1,44,38,55,7.5,0,,PAPUA NEW GUINEA,-5.462,151.875,170,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+2016,12,17,10,51,12,103,7.9,0,,PAPUA NEW GUINEA:  NEW BRITAIN NEW IRELAND,-4.509,153.45,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,1,22,4,30,56,136,7.9,0,,PAPUA NEW GUINEA:  BOUGAINVILLE ISLAND,-6.214,155.122,170,2,1,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0

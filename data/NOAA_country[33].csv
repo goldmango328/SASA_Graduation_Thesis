@@ -1,0 +1,7 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,5,28,4,4,22,22,6.0,0,,"ARGENTINA:  AMINGA, ANILLACO, AGUA BLANCA, CHUQUIS",-28.937,-66.797,160,0,0,0,0,27,1,0,2,40,1,40,1,0,0,27,0,40,0
+2004,9,7,11,53,6,22,6.1,0,,ARGENTINA: CATAMARCA,-28.573,-65.84,160,1,1,0,0,0,2,0,1,0,2,0,2,1,0,0,0,0,0
+2006,8,5,14,3,43,22,5.6,5,,ARGENTINA:  MENDOZA,-33.131,-68.707,160,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2008,12,10,10,53,50,10,4.1,0,,ARGENTINA:  POTRERILLOS,-32.938,-69.259,160,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,2,27,15,45,37,10,6.3,0,,ARGENTINA:  SALTA,-24.872,-65.602,160,2,1,0,0,2,1,0,0,0,0,0,0,2,0,2,0,0,0
+2015,10,17,11,33,0,33,5.8,7,,ARGENTINA:  GALPON,-25.442,-64.632,160,2,1,0,0,30,1,0,1,15,1,0,0,2,0,30,0,15,0

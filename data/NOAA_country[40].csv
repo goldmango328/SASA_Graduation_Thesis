@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,9,30,6,44,48,10,4.2,0,,"FRANCE:  HENNEBONT, LANGUIDIC, LORIENT, TREMOREL",47.832,-3.207,120,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+2003,2,22,20,41,3,10,5.0,0,,"FRANCE:  BACCARAT, COLMAR, THANN; GERMANY:  EDIGEN",48.342,6.57,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006,8,24,20,1,0,5,4.3,0,,FRANCE,45.84,-0.14,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006,11,17,18,19,51,10,4.7,0,,FRANCE:  PYRENEES,42.99,-0.05,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
