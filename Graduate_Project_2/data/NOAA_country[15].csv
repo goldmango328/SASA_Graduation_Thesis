@@ -1,0 +1,5 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,10,2,2,25,31,34,6.5,0,,"TANZANIA:  NKANSI, RUKWA",-7.977,30.709,10,0,0,0,0,6,1,0,1,7,1,150,3,0,0,6,0,7,150
+2002,5,18,15,15,8,10,5.5,0,,TANZANIA:  BUNDA,-2.907,33.733,10,2,1,0,0,0,0,0,2,690,3,700,3,2,0,0,0,690,700
+2016,9,10,12,27,33,40,5.9,0,,TANZANIA:  LAKE VICTORIA,-1.03,31.56,10,19,1,0,0,252,3,458,4,1044,4,6281,4,19,0,252,458,1044,6281
+2017,5,25,9,55,35,10,4.4,0,,TANZANIA: MWANZA,-3.054,32.893,10,1,1,0,0,18,1,0,0,0,0,0,0,1,0,18,0,0,0

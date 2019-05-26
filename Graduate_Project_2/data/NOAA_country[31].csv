@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2002,4,24,10,51,50,10,5.7,0,,BALKANS NW:  KOSOVO; MACEDONIA:  N,42.436,21.466,130,1,1,0,0,60,2,0,1,0,0,0,0,1,0,60,0,0,0
+2010,11,3,0,56,55,1,5.5,6,,BALKANS NW: SERBIA:  KRALJEVO,43.76,20.673,130,2,1,0,0,100,2,0,3,1000,3,5000,4,2,0,100,0,1000,5000
+2015,3,8,20,47,4,20,4.4,4,,BALKANS NW: SERBIA:  KOSJERIC,44.088,19.861,130,0,0,0,0,0,0,0,1,0,0,100,2,0,0,0,0,0,100

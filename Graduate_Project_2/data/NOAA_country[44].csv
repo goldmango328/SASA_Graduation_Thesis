@@ -1,0 +1,6 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2003,3,25,18,51,26,47,5.5,0,,BHUTAN:  PHUENTSHOLING,27.264,89.331,60,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006,2,23,20,4,53,10,5.8,0,,BHUTAN:  TASHIGANG,26.912,91.705,60,0,0,0,0,0,0,0,1,126,3,126,3,0,0,0,0,126,0
+2009,9,21,8,53,5,14,6.1,0,,BHUTAN:  TASHIGANG,27.332,91.437,60,11,1,0,0,0,0,0,3,0,3,0,3,11,0,0,0,0,0
+2009,10,29,17,0,38,26,5.3,0,,"BHUTAN:  MONGAR, PEMAGATSEL, TASHIGANG",27.262,91.417,60,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,1,116
+2009,12,31,9,57,29,10,5.2,0,,BHUTAN:  DAMETSI,27.319,91.51,60,0,0,0,0,2,1,0,2,0,0,0,0,0,0,2,0,0,700

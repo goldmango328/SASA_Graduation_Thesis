@@ -1,0 +1,6 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,6,18,14,44,13,10,7.9,0,,"AUSTRALIA:  S, COCOS ISLANDS",-13.802,97.453,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,12,23,14,59,4,10,8.1,0,TAS,AUSTRALIA:  MACQUARIE ISLAND,-49.312,161.345,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,9,22,8,20,41,0,3.1,0,,AUSTRALIA:  MORNINGTON,-38.28,145.25,170,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,4,20,0,17,8,0,5.2,0,,AUSTRALIA:  KALGOORLIE,-30.794,121.406,170,0,0,0,0,3,1,0,1,0,0,0,0,0,0,3,0,0,0
+2014,2,26,0,1,29,1,4.5,0,,AUSTRALIA:  KALGOORLIE,-30.686,121.332,60,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

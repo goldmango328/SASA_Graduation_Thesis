@@ -1,0 +1,10 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2000,11,8,6,59,58,17,6.5,0,,PANAMA-COLOMBIA:  JURADO,7.042,-77.829,100,0,0,0,0,2,1,0,2,0,0,86,2,0,0,2,0,0,86
+2002,7,31,0,16,44,10,6.5,7,,"PANAMA:  BARU, ALANJE, DAVID; COSTA RICA:  LAUREL",7.929,-82.793,100,0,0,0,0,11,1,0,2,0,2,0,3,0,0,11,0,0,0
+2003,8,13,8,29,27,54,5.4,0,,"PANAMA:  COLON, PANAMA CITY",9.355,-79.941,100,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2003,12,25,7,11,11,33,6.5,0,,PANAMA-COSTA RICA:  PUERTO ARMUELLES,8.416,-82.824,100,2,1,0,0,75,2,0,2,0,0,0,3,2,0,75,0,0,0
+2004,2,4,11,59,47,29,6.1,0,,PANAMA-COSTA RICA:  CHIRIQUI,8.358,-82.877,100,0,0,0,0,4,1,0,1,0,0,0,0,0,0,4,0,0,0
+2006,5,4,17,43,9,0,4.5,0,,PANAMA:  BOQUETE,8.898,-82.543,100,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2008,11,19,6,11,20,32,6.1,0,,"PANAMA:  PASO CANOA, DAVID, PUERTO ARMUELLES",8.267,-82.967,100,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2009,7,4,6,49,35,38,6.0,5,,PANAMA: PANAMA CITY,9.59,-78.966,100,0,0,0,0,32,1,0,1,0,0,0,0,0,0,32,0,0,10
+2015,7,29,0,11,6,12,5.9,3,,COLOMBIA-PANAMA:  COLOMBIA:  UNGUIA,8.231,-77.315,100,0,0,0,0,6,1,0,1,0,0,45,1,0,0,6,0,0,45

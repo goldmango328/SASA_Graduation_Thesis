@@ -1,0 +1,9 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2003,9,21,18,16,13,10,6.6,0,,MYANMAR (BURMA):  TAUNGDWINGYI; THAILAND:  BANGKOK,19.917,95.672,60,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+2008,12,25,20,20,51,35,4.7,0,,MYANMAR (BURMA),23.97,97.569,60,0,0,0,0,19,1,0,3,30,1,30,1,0,0,19,0,30,5400
+2009,8,30,19,27,48,82,5.2,0,,MYANMAR (BURMA);  INDIA:  SIBSAGAR,25.28,95.101,60,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2011,2,4,13,53,46,85,6.3,0,,MYANMAR (BURMA):  MONYWA,24.618,94.68,60,1,1,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0
+2011,3,24,13,55,12,8,6.8,0,,MYANMAR:  TACHILEK,20.687,99.822,60,75,2,0,0,123,3,3,2,0,0,10104,4,75,0,123,3,0,10104
+2012,11,11,1,12,38,14,6.8,0,,MYANMAR (BURMA):  SHWEBO,23.005,95.885,60,26,1,0,0,230,3,0,2,251,3,0,0,26,0,230,0,251,0
+2016,8,24,10,34,55,84,6.8,6,,MYANMAR (BURMA): CHAUK,20.919,94.579,60,3,1,0,0,20,1,0,2,0,0,200,3,3,0,20,0,0,200
+2017,3,13,14,19,6,10,5.1,0,,MYANMAR (BURMA):  THARRAWADDY,17.415,95.999,60,2,1,0,0,36,1,0,1,0,1,0,1,2,0,36,0,0,0
