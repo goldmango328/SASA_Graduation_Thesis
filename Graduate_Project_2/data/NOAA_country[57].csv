@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2004,6,9,11,41,16,10,4.6,0,,SAUDI ARABIA: WESTERN,27.836,36.905,140,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2009,5,17,19,50,6,10,4.6,0,,SAUDI ARABIA: WESTERN,25.212,37.597,140,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+2009,5,19,17,35,0,2,5.7,0,,SAUDI ARABIA: WESTERN,25.292,37.744,140,0,0,0,0,7,1,0,0,0,0,0,0,0,0,7,0,0,0

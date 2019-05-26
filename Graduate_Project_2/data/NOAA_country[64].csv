@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2004,12,2,19,16,34,49,5.8,0,,TRINIDAD:  MAYARO,10.49,-61.48,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006,9,29,13,8,26,53,6.1,0,,TRINIDAD:  PORT-OF-SPAIN,10.876,-61.756,90,0,0,0,0,3,1,0,1,1,1,0,0,0,0,3,0,1,0
+2006,9,29,18,23,5,52,5.5,0,,TRINIDAD:  GASPARILLO,10.814,-61.758,90,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

@@ -1,0 +1,4 @@
+year,month,day,hour,minute,second,focal_depth,EQ_primary,intensity,state,location_name,latitude,longitude,region_code,deaths,deaths_description,missing,missing_description,injuries,injuries_description,damage_millions_dollars,damage_description,house_destroyed,house_destroyed_description,house_damaged,house_damaged_description,total_deaths,total_missing,total_injuries,total_damage_million_dollars,total_house_destroyed,total_house_damaged
+2007,12,9,7,28,20,153,7.8,0,,KERMADEC ISLANDS,-25.996,-177.514,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,7,6,19,3,18,17,7.6,0,,NEW ZEALAND: KERMADEC ISLANDS,-29.539,-176.34,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,10,21,17,57,16,33,7.4,0,,KERMADEC ISLANDS,-28.993,-176.238,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
